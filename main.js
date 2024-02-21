@@ -1,3 +1,3 @@
-var craziness = true
+var craziness = 100
 
-console.log(”My Craziness Level = “ + craziness)
+console.log(”My Craziness Level = “ + craziness + ”%”)
