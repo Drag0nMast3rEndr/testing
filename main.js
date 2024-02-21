@@ -1,3 +1,3 @@
-var craziness = 100
+var craziness = 100;
 
-console.log(”My Craziness Level = “ + craziness + ”%”)
+document.body.innerHTML = (”My Craziness Level = “ + craziness + ”%”);
